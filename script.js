@@ -59,6 +59,7 @@ document.getElementById('commandInput').addEventListener('keydown', function(eve
 | <span class="sbt">-n / -network</span>     | For contacts         |
 --------------------------------------------
                         </pre>
+<h1 class="ttl">Summary</h1>
 ⠀⠀⠀⠀    Recent Computer Science graduate with a minor in Communication Studies, 
     seeking a role to apply and further develop my technical and interpersonal skills.
     Proficient in problem-solving, software design, and coding, with hands-on experience
@@ -95,11 +96,12 @@ document.getElementById('commandInput').addEventListener('keydown', function(eve
 | <span class="sbt">-n / -network</span>     | For contacts         |
 --------------------------------------------
                         </pre>
+<h1 class="ttl">Education</h1>
 <strong class="ttl"> Bachelor of Computer Science – Minor in Communication Studies. </strong>
     Al Akhawayn University, Ifrane Morocco	2019 – 2024	
 
-<strong class="sbt">Relevant Coursework:</strong>Data Structures, Analysis of Algorithms, 
-Computer Organization and Architect, Agile Software Engineering, Machine Learning and Data Mining
+<strong class="sbt"> Relevant Coursework:</strong>Data Structures, Analysis of Algorithms, 
+ Computer Organization and Architect, Agile Software Engineering, Machine Learning and Data Mining
 ⠀⠀⠀⠀
                             </pre>
                  
@@ -111,7 +113,7 @@ Computer Organization and Architect, Agile Software Engineering, Machine Learnin
                     response = ``;                    
                     outputDiv.innerHTML = `
                 <pre > 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<h1 class="ttl">Experience</h1>
 <strong class = "ttl">Admission & Outreach Department </strong>(Al Akhawayn University, Ifrane, Morocco)
     <strong class = "sbt">Internship</strong> | <strong class = "dt">June 2023 – September 2023</strong>
     •	Developed a Chatbot for AUI. The chatbot was built using Langchain and Next.js, 
@@ -141,9 +143,7 @@ Computer Organization and Architect, Agile Software Engineering, Machine Learnin
     <strong class = "sbt">Service Chairperson</strong> | <strong class = "dt">March 2021 – June 2022</strong>
     •	Incorporate opportunities for local youth and Leos to engage in all aspects 
         of service activities, including goal setting, implementation, project evaluation and reporting.
-⠀⠀⠀⠀
-<p>Type "-i" or "--info" for more info:</p></pre>          
-                `;
+⠀⠀⠀⠀                `;
                     break;
                 case '-a':
                 case '-achievement':
@@ -170,6 +170,7 @@ Computer Organization and Architect, Agile Software Engineering, Machine Learnin
 | <span class="sbt">-n / -network</span>     | For contacts         |
 --------------------------------------------
                         </pre>
+<h1 class="ttl">Achievement</h1>
 •   Won the Best Club Awards for the most impactful club within Al Akhawayn University.
 •   Participating twice in Moroccan Collegiate Programming Contest Competition (MCPC) 
     As an AUI official team.
@@ -204,6 +205,7 @@ Computer Organization and Architect, Agile Software Engineering, Machine Learnin
 --------------------------------------------
 | <span class="sbt">-n / -network</span>     | For contacts         |
 --------------------------------------------                      </pre>
+<h1 class="ttl">Certificates</h1>
 <a class="cert" href="https://www.coursera.org/account/accomplishments/verify/WLDLJ2A3YV38" target="_blank" >
 Data Visualization and Dashboards with Excel and Cognos</a>
 <a class="cert" href="https://www.coursera.org/account/accomplishments/verify/L5XAQO5M8E5W" target="_blank" >
@@ -248,6 +250,7 @@ Software Processes and Agile Practices</a>
 | <span class="sbt">-n / -network</span>     | For contacts         |
 --------------------------------------------
                         </pre>
+<h1 class="ttl">Skills</h1>
 <strong class="cert">Languages</strong>
     •	Arabic – Native speaker, English – Fluent, French – Fluent.
 <strong class="cert">Soft Skills</strong>
