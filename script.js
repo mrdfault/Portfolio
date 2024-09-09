@@ -248,8 +248,7 @@ Software Processes and Agile Practices</a>
 | <span class="sbt">-k / -skills</span>      | For the skills       |
 --------------------------------------------
 | <span class="sbt">-n / -network</span>     | For contacts         |
---------------------------------------------
-                        </pre>
+--------------------------------------------</pre>
 <h1 class="ttl">Skills</h1>
 <strong class="cert">Languages</strong>
     •	Arabic – Native speaker, English – Fluent, French – Fluent.
