@@ -259,9 +259,9 @@ Software Processes and Agile Practices</a>
 <strong class="cert">Programing Languages</strong>
     •	Bash/Shell Scripting, C, C++, Python, Java, HTML, CSS, JavaScript, SQL.
 <strong class="cert">Software</strong>
-    •	MS Office (Word, Excel, PowerPoint, Outlook, Forms, Planner)
+    •	MS Office (Power BI, Word, Excel, PowerPoint, Outlook, Forms, Planner)
     •	Adobe (Photoshop, Adobe illustrator, Adobe Premiere Pro, Lightroom, InDesign)
-    •	IBM Cognos 
+    •	Power BI, IBM Cognos 
 <strong class="cert">Technologies.</strong>
     •	MySQL, PostgreSQL
     •	AWS (Amazon Web Services), Google Cloud Platform (GCP)
